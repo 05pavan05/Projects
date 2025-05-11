@@ -14,14 +14,6 @@ To get started with this project you need online a code editor and a browser, Fi
 
 
 
-## Authors
-
-👤 **Agwunobi sopulu**
-
-- Github: [@detrinity27](https://github.com/detrinity27)
-- Twitter: [@Zed](https://twitter.com/SO_NWA)
-- Linkedin: [agwunobi sopulu](https://www.linkedin.com/in/agwunobi-sopulu-691875216)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
